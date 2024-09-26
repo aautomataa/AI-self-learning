@@ -63,7 +63,7 @@
   
 - [UIUC CS547: Deep Learning](https://github.com/aautomataa/UIUC-CS547)
 
-- [FUDAN: NNDL](https://github.com/aautomataa/FUDAN_NNDL)
+- [FUDAN: NNDL](https://github.com/aautomataa/FUDAN-NNDL)
   
 - [Fast.ai: Practical Deep Learning for Coders](https://github.com/aautomataa/Fast.ai-Practical-Deep-Learning-for-Coders)
   
