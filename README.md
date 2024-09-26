@@ -105,6 +105,8 @@
     - [UIUC CS444: Deep Learning for Computer Vision](https://github.com/aautomataa/UIUC-CS444)
       
     - [UCB CS280: Advanced Topics in Computer Vision](https://github.com/aautomataa/UCB-CS280)
+   
+    - [MIT6.8300: Advances in Computer Vision](https://github.com/aautomataa/MIT6.8300)
 
 
 ## Natural Language Processing
