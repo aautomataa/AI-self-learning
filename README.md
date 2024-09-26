@@ -62,6 +62,8 @@
 - [UT-Austin CS342: Deep Learning](https://github.com/aautomataa/UT-Austin-CS342)
   
 - [UIUC CS547: Deep Learning](https://github.com/aautomataa/UIUC-CS547)
+
+- [FUDAN: NNDL](https://github.com/aautomataa/FUDAN_NNDL)
   
 - [Fast.ai: Practical Deep Learning for Coders](https://github.com/aautomataa/Fast.ai-Practical-Deep-Learning-for-Coders)
   
