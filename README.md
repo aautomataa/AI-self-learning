@@ -82,7 +82,7 @@
 
 ## Computer Vision
   - ### DIP (Digital Image Processing)
-    - [Stanford CS232: Digital Image Processing](https://github.com/aautomataa/Stanford-CS232)
+    - [Stanford CS232: Digital Image Processing](https://github.com/aautomataa/Stanford-CS232)  🏷⌨️
       
     - [Duke ECE588: Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital](https://github.com/aautomataa/Duke-ECE588)
       
