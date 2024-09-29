@@ -47,6 +47,8 @@
   
 - [CMU11-777: MultiModal Machine Learning](https://github.com/aautomataa/CMU11-777)
 
+- [HKU Stat3612: Statistical Machine Learning](https://github.com/aautomataa/HKU-Stat3612)
+
 
 ## Deep Learning
 - [d2l-zh: Dive into Deep Learning](https://github.com/aautomataa/d2l-zh)
@@ -78,6 +80,12 @@
 - [UCB CS294-158: Deep Unsupervised Learning](https://github.com/aautomataa/UCB-CS294-158)
   
 - [MIT6.5940: TinyML and Efficient Deep Learning Computing](https://github.com/aautomataa/MIT6.5940)
+
+- [NUS CS5242: Neural Networks and Deep Learning](https://github.com/aautomataa/NUS-CS5242)
+
+- [NUS CS6208: Advanced Topics in Artificial Intelligence](https://github.com/aautomataa/NUS-CS6208)
+
+- [WU: Deep Learning](https://github.com/aautomataa/WU-Deep-Learning)
 
 
 ## Computer Vision
