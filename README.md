@@ -115,6 +115,8 @@
     - [UCB CS280: Advanced Topics in Computer Vision](https://github.com/aautomataa/UCB-CS280)
    
     - [MIT6.8300: Advances in Computer Vision](https://github.com/aautomataa/MIT6.8300)
+   
+    - [NUS CS4277: 3D Computer Vision](https://github.com/aautomataa/NUS-CS4277)
 
 
 ## Natural Language Processing
