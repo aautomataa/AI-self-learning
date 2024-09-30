@@ -69,7 +69,7 @@
   
 - [Fast.ai: Practical Deep Learning for Coders](https://github.com/aautomataa/Fast.ai-Practical-Deep-Learning-for-Coders)
   
-- [ENS Deep Learning: Do It Yourself](https://github.com/aautomataa/ENS-Deep-Learning)
+- [ENS: Deep Learning - Do It Yourself](https://github.com/aautomataa/ENS-Deep-Learning)
   
 - [IDIAP EE559: Deep Learning](https://github.com/aautomataa/IDIAP-EE559)
   
