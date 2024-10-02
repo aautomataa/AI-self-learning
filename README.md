@@ -89,8 +89,10 @@
 
 
 ## Computer Vision
-  - ### Databases
-    - [CVonline: Image and Video Databases](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
+  - ### Resources
+    - Databases: [Image and Video Databases](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
+   
+    - Encyclopedia: [CVonline: The Evolving, Distributed, Non-Proprietary, On-Line Compendium of Computer Vision](https://homepages.inf.ed.ac.uk/rbf/CVonline/)
 
   - ### DIP (Digital Image Processing)
     - [Stanford CS232: Digital Image Processing](https://github.com/aautomataa/Stanford-CS232)  🏷⌨️
