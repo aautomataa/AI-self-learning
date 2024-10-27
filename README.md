@@ -118,6 +118,8 @@
       
   - ### Deep Learning CV
     - [CMU16-385: Computer Vision](https://github.com/aautomataa/CMU16-385)
+   
+    - [Brown CSCI1430: Introduction to Computer Vision](https://github.com/aautomataa/Brown-CSCI1430)
 
     - [GATECH CS4476-A: Computer Vision](https://github.com/aautomataa/GATECH-CS4476-A)
    
@@ -136,6 +138,8 @@
     - [UCB CS280: Advanced Topics in Computer Vision](https://github.com/aautomataa/UCB-CS280)
    
     - [MIT6.8300: Advances in Computer Vision](https://github.com/aautomataa/MIT6.8300)
+   
+    - [IMPA: Fundamentals and Trends in Vision and Image Processing](https://github.com/aautomataa/IMPA-Fundamentals-and-Trends-in-Vision-and-Image-Processing)
    
     - [NUS CS4277: 3D Computer Vision](https://github.com/aautomataa/NUS-CS4277)
 
