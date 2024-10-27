@@ -38,6 +38,8 @@
 - [UCB CS189: Introduction to Machine Learning](https://github.com/aautomataa/UCB-CS189)
   
 - [MIT6.3900: Introduction to Machine Learning](https://github.com/aautomataa/MIT6.3900)
+
+- [ENS: Introduction to Machine Learning ](https://github.com/aautomataa/ENS-Introduction-to-Machine-Learning)
   
 - [Coursera: Machine Learning](https://github.com/aautomataa/Coursera-Machine-Learning)
   
@@ -48,6 +50,8 @@
 - [CMU11-777: MultiModal Machine Learning](https://github.com/aautomataa/CMU11-777)
 
 - [HKU Stat3612: Statistical Machine Learning](https://github.com/aautomataa/HKU-Stat3612)
+
+- [ETHZ: Advanced Machine Learning](https://github.com/aautomataa/ETHZ-Advanced-Machine-Learning)
 
 
 ## Deep Learning
@@ -64,6 +68,10 @@
 - [UT-Austin CS342: Deep Learning](https://github.com/aautomataa/UT-Austin-CS342)
   
 - [UIUC CS547: Deep Learning](https://github.com/aautomataa/UIUC-CS547)
+
+- [NYU DSGA1008: Deep Learning](https://github.com/aautomataa/NYU-DSGA1008)
+
+- [UNIGE: Deep Learning](https://github.com/aautomataa/UNIGE-Deep-Learning)
 
 - [FUDAN: NNDL](https://github.com/aautomataa/FUDAN-NNDL)
   
@@ -109,6 +117,14 @@
     - [UCB CS194-26: Computer Vision and Computational Photography](https://github.com/aautomataa/UCB-CS194-26)
       
   - ### Deep Learning CV
+    - [CMU16-385: Computer Vision](https://github.com/aautomataa/CMU16-385)
+
+    - [GATECH CS4476-A: Computer Vision](https://github.com/aautomataa/GATECH-CS4476-A)
+   
+    - [CMPT412: Computer-Vision](https://github.com/aautomataa/CMPT412-Computer-Vision)
+   
+    - [Cornell CS5670: Introduction to Computer Vision](https://github.com/aautomataa/Cornell-CS5670)
+
     - [UMich EECS498: Deep Learning for Computer Vision](https://github.com/aautomataa/UMich-EECS498)  🎥🏷⌨️
       
     - [Stanford CS231n: Deep Learning for Computer Vision](https://github.com/aautomataa/Stanford-CS231n)  🎥🏷⌨️ - 📅`2024/9/20`.
@@ -141,7 +157,7 @@
 
 
 ## Career
-
+- [UIUC CS591: CS Ph.D. Job Search Seminar](https://github.com/aautomataa/UIUC-CS591)
 
 
 # Notations
