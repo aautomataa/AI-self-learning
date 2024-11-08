@@ -117,11 +117,13 @@
     - [UCB CS194-26: Computer Vision and Computational Photography](https://github.com/aautomataa/UCB-CS194-26)
       
   - ### Deep Learning CV
+    - [WWU CSCI497P: Introduction to Computer Vision](https://github.com/aautomataa/WWU-CSCI497P)
+
     - [CMU16-385: Computer Vision](https://github.com/aautomataa/CMU16-385)
    
     - [Brown CSCI1430: Introduction to Computer Vision](https://github.com/aautomataa/Brown-CSCI1430)
 
-    - [GATECH CS4476-A: Computer Vision](https://github.com/aautomataa/GATECH-CS4476-A)
+    - [GATECH CS4476: Computer Vision](https://github.com/aautomataa/GATECH-CS4476)
    
     - [CMPT412: Computer-Vision](https://github.com/aautomataa/CMPT412-Computer-Vision)
    
@@ -134,6 +136,8 @@
     - [Stanford CS231A: Computer Vision, From 3D Perception to 3D Reconstruction and beyond](https://github.com/aautomataa/Stanford-CS231A)
       
     - [UIUC CS444: Deep Learning for Computer Vision](https://github.com/aautomataa/UIUC-CS444)
+   
+    - [UMich EECS542: Advanced Topics in Computer Vision](https://github.com/aautomataa/UMich-EECS542)
       
     - [UCB CS280: Advanced Topics in Computer Vision](https://github.com/aautomataa/UCB-CS280)
    
@@ -142,6 +146,8 @@
     - [IMPA: Fundamentals and Trends in Vision and Image Processing](https://github.com/aautomataa/IMPA-Fundamentals-and-Trends-in-Vision-and-Image-Processing)
    
     - [NUS CS4277: 3D Computer Vision](https://github.com/aautomataa/NUS-CS4277)
+   
+    - [CMU15-463: Computational photography](https://github.com/aautomataa/CMU15-463)
 
 
 ## Natural Language Processing
