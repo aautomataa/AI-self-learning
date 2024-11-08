@@ -169,6 +169,8 @@
 ## Career
 - [UIUC CS591: CS Ph.D. Job Search Seminar](https://github.com/aautomataa/UIUC-CS591)
 
+- [AI Job Notes](https://github.com/amusi/AI-Job-Notes)
+
 
 # Notations
 
