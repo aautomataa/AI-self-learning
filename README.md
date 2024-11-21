@@ -46,12 +46,12 @@
 - [Stanford CS229: Machine Learning](https://github.com/aautomataa/Stanford-CS229)
   
 - [MIT6.7900: Machine Learning](https://github.com/aautomataa/MIT6.7900)
-  
-- [CMU11-777: MultiModal Machine Learning](https://github.com/aautomataa/CMU11-777)
 
 - [HKU Stat3612: Statistical Machine Learning](https://github.com/aautomataa/HKU-Stat3612)
 
 - [ETHZ: Advanced Machine Learning](https://github.com/aautomataa/ETHZ-Advanced-Machine-Learning)
+
+- [CMU11-777: MultiModal Machine Learning](https://github.com/aautomataa/CMU11-777)
 
 
 ## Deep Learning
