@@ -1,4 +1,4 @@
-# AI自学
+# AI 自学
 
 ## CS Basics
 - [MIT: Missing Semester](https://github.com/aautomataa/MIT-Missing-Semester)
